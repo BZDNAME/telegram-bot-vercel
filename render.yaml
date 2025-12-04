@@ -7,11 +7,11 @@ services:
     startCommand: python main.py
     envVars:
       - key: BOT_TOKEN
-        sync: false
+        sync: 8487904580:AAGShz7eJmfZOvCDoCevK3t-o2DUe93VjFE
       - key: CHANNEL_USERNAME
-        value: victusxgod
+        value: greatcvv小店
       - key: OWNER_URL
-        value: https://t.me/victus_xd
+        value: https://t.me/greatcvvstore
       - key: OWNER_ID_1
         sync: false
       - key: OWNER_ID_2
